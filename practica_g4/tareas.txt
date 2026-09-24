@@ -1,0 +1,4 @@
+1: darle comida a mi perro
+2: lavar la ropa
+3: hacer mi tareas
+4: tender la ropa

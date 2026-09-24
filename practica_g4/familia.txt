@@ -1,0 +1,6 @@
+1: mi mamá 
+2: mi papá
+3: mi hermano
+4: mi hermana
+5: mi perro el pelao
+6: mi gato el barburo
